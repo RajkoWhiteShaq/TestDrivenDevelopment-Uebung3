@@ -1,8 +1,8 @@
 ToDoList:
 
-1. => Funktion := ItemStats
+1. => Funktion := ItemStats   Done
 
-2. => Allgemeine Funktion für normale Items + Arten der Items 
+2. => Allgemeine Funktion für normale Items + Arten der Items  Done
 
 3. => Funktion := Quality update
 
@@ -12,3 +12,23 @@ ToDoList:
 
 6. => Funktion Conjured Items
 
+
+Testfälle: 
+
+1. => Quality over 50 is not allowed
+
+2. => Quality of Sulfuras should stay at 80
+
+3. => After sell-by date, the quality should degrade x2
+
+4. => Quality can't be negative
+
+5. => Quality of Aged Brie should increase over time
+
+6. => If Backstage passes <= 10, increase Quality by 2 
+
+7. => If Backstage passes <= 5, increase Quality by 3
+
+8. => If Backstage = 0, drop Quality to 0
+
+9. => Conjured items quality should fall twice as fast
