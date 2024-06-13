@@ -8,7 +8,7 @@ ToDoList:
 
 4. => Funktion Aged Brie   Done
 
-5. => Funktion Backstage Passes
+5. => Funktion Backstage Passes Done
 
 6. => Funktion Conjured Items   Done 
 
