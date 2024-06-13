@@ -1,3 +1,14 @@
+ToDoList:
 
+1. => Funktion := ItemStats
 
-   1. Problem => Expected 'foo' to equal 'fixme'.  "Doing" 
+2. => Allgemeine Funktion für normale Items + Arten der Items 
+
+3. => Funktion := Quality update
+
+4. => Funktion Aged Brie
+
+5. => Funktion Backstage Passes
+
+6. => Funktion Conjured Items
+
