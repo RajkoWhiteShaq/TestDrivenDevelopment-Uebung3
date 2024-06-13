@@ -4,13 +4,13 @@ ToDoList:
 
 2. => Allgemeine Funktion für normale Items + Arten der Items  Done
 
-3. => Funktion := Quality update
+3. => Funktion := Quality update Done
 
-4. => Funktion Aged Brie
+4. => Funktion Aged Brie   Done
 
 5. => Funktion Backstage Passes
 
-6. => Funktion Conjured Items
+6. => Funktion Conjured Items   Done 
 
 
 Testfälle: 

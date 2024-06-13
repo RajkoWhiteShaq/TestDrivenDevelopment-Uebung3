@@ -43,3 +43,23 @@ function update_normal_item(item) {
     item.quality -= 1;
   }
 }
+
+function update_aged_brie(item) {
+  if (item.quality < 50) {
+    item.quality += 1;
+  }
+  item.sell_in -= 1;
+  if (item.sell_in < 0 && item.quality < 50) {
+    item.quality += 1;
+  }
+}
+
+function update_conjured(item) {
+  if (item.quality > 0) {
+    item.quality -= 2;
+  }
+  item.sell_in -= 1;
+  if (item.sell_in < 0 && item.quality > 0) {
+    item.quality -= 2;
+  }
+}
