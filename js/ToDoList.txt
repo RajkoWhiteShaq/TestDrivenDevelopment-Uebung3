@@ -15,9 +15,9 @@ ToDoList:
 
 Testfälle: 
 
-1. => Quality over 50 is not allowed
+1. => Quality over 50 is not allowed Done
 
-2. => Quality of Sulfuras should stay at 80
+2. => Quality of Sulfuras should stay at 80 Done
 
 3. => After sell-by date, the quality should degrade x2
 
