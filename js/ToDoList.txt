@@ -23,12 +23,12 @@ Testfälle:
 
 4. => Quality can't be negative  Done
 
-5. => Quality of Aged Brie should increase over time
+5. => Quality of Aged Brie should increase over time    Done
 
-6. => If Backstage passes <= 10, increase Quality by 2 
+6. => If Backstage passes <= 10, increase Quality by 2  Done    
 
-7. => If Backstage passes <= 5, increase Quality by 3
+7. => If Backstage passes <= 5, increase Quality by 3   Done
 
-8. => If Backstage = 0, drop Quality to 0
+8. => If Backstage = 0, drop Quality to 0   Done
 
-9. => Conjured items quality should fall twice as fast
+9. => Conjured items quality should fall twice as fast Done
