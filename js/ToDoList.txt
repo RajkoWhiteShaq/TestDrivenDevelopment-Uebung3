@@ -19,9 +19,9 @@ Testfälle:
 
 2. => Quality of Sulfuras should stay at 80 Done
 
-3. => After sell-by date, the quality should degrade x2
+3. => After sell-by date, the quality should degrade x2 Done
 
-4. => Quality can't be negative
+4. => Quality can't be negative  Done
 
 5. => Quality of Aged Brie should increase over time
 
