@@ -64,6 +64,10 @@ function update_conjured(item) {
   }
 }
 
+function update_sulfuras(item) { 
+  }
+
+  
 function update_backstage_pass(item) {
   if (item.quality < 50) {
     item.quality += 1;
